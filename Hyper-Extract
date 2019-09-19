@@ -1,0 +1,9 @@
+Hyper seems to be a (data-) extract format.
+
+Hyper is Tableau's in-memory Data Engine technology optimized for fast data
+ingest and analytical query processing on large or complex data sets.
+
+Beginning in Tableau 10.5, new extracts use the .hyper file format instead of
+the .tde file format.
+
+There is an SDK that allows to add data to a hyper file - but not to extract from it!
